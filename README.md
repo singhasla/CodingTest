@@ -1,1 +1,1 @@
-# CodingTest_BaekJoon
+# CodingTest
