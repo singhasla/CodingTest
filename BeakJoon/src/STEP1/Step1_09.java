@@ -14,6 +14,8 @@ public class Step1_09 {
         System.out.println(a * b);
         System.out.println(a / b);
         System.out.println(a % b);
+        
+        sc.close();
 	}
 
 }

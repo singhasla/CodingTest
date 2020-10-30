@@ -10,6 +10,8 @@ public class Step1_08 {
 		a = sc.nextDouble();
 		b = sc.nextDouble();
 		System.out.println(a/b);
+		
+		sc.close();
 	}
 
 }
