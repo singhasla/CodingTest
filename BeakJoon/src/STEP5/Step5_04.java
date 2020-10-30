@@ -12,7 +12,6 @@ public class Step5_04 {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 
-		int[] num = new int[10];
 		int[] count = new int[42];
 		int cnt = 0;
 
