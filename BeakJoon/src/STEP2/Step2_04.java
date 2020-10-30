@@ -21,6 +21,8 @@ public class Step2_04 {
 			else
 				System.out.println("23" + " " + (y+15));
 		}
+		
+		sc.close();
 	}
 
 }

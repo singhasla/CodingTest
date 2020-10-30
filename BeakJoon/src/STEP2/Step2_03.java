@@ -17,6 +17,7 @@ public class Step2_03 {
 		} else {
 			System.out.println("0");
 		}
+		sc.close();
 	}
 
 }

@@ -18,6 +18,8 @@ public class Step2_05 {
 			System.out.println("3");
 		else
 			System.out.println("4");
+		
+		sc.close();
 	}
 
 }

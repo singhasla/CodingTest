@@ -16,6 +16,8 @@ public class Step2_01 {
 			System.out.println("<");
 		else
 			System.out.println("==");
+		
+		sc.close();
 	}
 
 }

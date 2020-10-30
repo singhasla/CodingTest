@@ -19,6 +19,8 @@ public class Step2_02 {
 			System.out.println("D");
 		else
 			System.out.println("F");
+		
+		sc.close();
 	}
 
 }
