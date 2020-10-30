@@ -12,6 +12,8 @@ public class Step3_01 {
 		for(int i=1;i<=9;i++){
 			System.out.println(a + " * " + i + " = " + (a*i));
 		}
+		
+		sc.close();
 	}
 
 }

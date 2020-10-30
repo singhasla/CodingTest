@@ -18,6 +18,8 @@ public class Step3_10 {
 			}
 			System.out.println();
 		}
+		
+		sc.close();
 	}
 
 }

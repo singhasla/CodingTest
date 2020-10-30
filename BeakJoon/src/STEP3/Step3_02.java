@@ -15,6 +15,8 @@ public class Step3_02 {
 			
 			System.out.println(a+b);
 		}
+		
+		sc.close();
 	}
 
 }

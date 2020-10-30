@@ -17,6 +17,8 @@ public class Step3_11 {
 				System.out.print(a + " ");
 			}
 		}
+		
+		sc.close();
 	}
 
 }

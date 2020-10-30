@@ -14,6 +14,8 @@ public class Step3_03 {
 			sum += i;
 		}
 		System.out.println(sum);
+		
+		sc.close();
 	}
 
 }
