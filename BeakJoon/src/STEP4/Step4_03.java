@@ -26,6 +26,7 @@ public class Step4_03 {
 			n1=newnum%10;		
 		}
 		System.out.println(count);
+		sc.close();
 	}
 
 }
