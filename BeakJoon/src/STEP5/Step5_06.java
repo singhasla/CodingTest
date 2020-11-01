@@ -12,10 +12,11 @@ public class Step5_06 {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
 		
-		int total =0;
+		int total;
 		int n = Integer.parseInt(br.readLine());
 		
 		for(int i=0;i<n;i++) {
+			total = 0;
 			String line = br.readLine();
 			int[] ox = new int[line.length()];
 
